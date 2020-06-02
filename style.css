@@ -84,7 +84,7 @@ body {
 
   #content{
     font-size: 180%;
-    width: 80%;
+    width: 90%;
     margin:auto;
   }
 
@@ -93,7 +93,7 @@ body {
     text-align: center;
     border: solid;
     margin: 0;
-
+  }
 
   .show{
     display: block;
