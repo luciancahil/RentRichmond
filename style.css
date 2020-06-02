@@ -88,6 +88,12 @@ body {
     margin:auto;
   }
 
+  #content #imageHere{
+    font-size: 500%;
+    text-align: center;
+    border: solid;
+    margin: 0;
+
 
   .show{
     display: block;
