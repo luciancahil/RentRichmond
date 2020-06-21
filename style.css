@@ -84,7 +84,7 @@ body {
 
   #content{
     font-size: 180%;
-    width: 90%;
+    width: 80%;
     margin:auto;
   }
 
@@ -97,4 +97,23 @@ body {
 
   .show{
     display: block;
+  }
+
+  #logos{
+    display: inline-block;
+    text-align: center;
+  }
+
+  #logos ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 40px;
+  }
+
+  #logos img{
+    height: auto;
+    width: 350px;
+    display: inline-block;
+    background-color: pink;
+    vertical-align: middle;
   }
